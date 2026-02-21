@@ -1,8 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Manav;Computer+Science+Student;Learning+AI" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Manav;Computer+Science+Student;Learning+AI" />
+</h1>
 
-<hr style="height:1px; border:none; background-color:#444;">
+<div align="center">
+  <a href="https://github.com/Lviffy" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10"/></a>
+</div>
+
+
 
 ## About Me 
 
