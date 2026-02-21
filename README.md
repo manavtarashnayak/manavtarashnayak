@@ -83,3 +83,8 @@
 💡 *"I love turning ideas into real-world projects."*
 
 ---
+## 📊 GitHub 3D Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
