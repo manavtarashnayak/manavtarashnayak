@@ -6,8 +6,6 @@
   <a href="https://github.com/Lviffy" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10"/></a>
 </div>
 
-
-
 ## About Me 
 
 ```c
@@ -20,3 +18,9 @@ int main() {
     printf("Goal: Become a Skilled Individual\n");
     return 0;
 }
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manavtarashnayak/manavtarashnayak/output/github-snake.svg" />
+</p>
+
+
