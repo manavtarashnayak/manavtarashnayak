@@ -12,18 +12,18 @@
 #include <stdio.h>
 
 int main() {
-    printf("Role: Computer Science Student\n");
-    printf("Passion: Building Real World Projects\n");
-    printf("Learning: Artificial Intelligence & Programming\n");
-    printf("Goal: Become a Skilled Individual\n");
+    printf("Role: Computer Science Student (chosen by destiny, not electives)\n");
+    printf("Passion: Debugging like the fate of the universe depends on it\n");
+    printf("Learning: AI — because great power requires great logic\n");
+    printf("Goal: Become skilled before the sequel semester arrives\n");
     return 0;
 }
 ```
 <h1>
 </h1>
-<p align="center">
-## 🐍 Contribution Table
-</p>
+<h2 align="center" style="font-weight:900; letter-spacing:2px;">
+  🐍 CONTRIBUTION TABLE
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manavtarashnayak/manavtarashnayak/output/github-snake.svg" />
