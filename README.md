@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/Lviffy" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10"/></a>
+  <a href="https://github.com/manavtarashnayak" title="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_radius=10"/></a>
 </div>
 
 ## About Me 
@@ -24,6 +24,12 @@ int main() {
     return 0;
 }
 ```
+<h1>
+</h1>
+<p align="center">
+## 🐍 Contribution Table
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/manavtarashnayak/manavtarashnayak/output/github-snake.svg" />
 </p>
