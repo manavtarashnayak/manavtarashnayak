@@ -1,3 +1,8 @@
+<!-- Banner Image at the top -->
+<p align="center">
+  <img src="WhatsApp Image 2026-02-22 at 02.29.40.jpeg" alt="Banner" width="100%"/>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Manav;Computer+Science+Student;Learning+AI" />
 </h1>
@@ -22,8 +27,7 @@ int main() {
 <p align="center">
   <img src="https://raw.githubusercontent.com/manavtarashnayak/manavtarashnayak/output/github-snake.svg" />
 </p>
-
-<h1>
-  
-</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=100&section=footer" width="100%" />
+</div>
 
