@@ -23,9 +23,6 @@ int main() {
 </h1>
 <h2 align="center" style="font-weight:900; letter-spacing:2px;">
   🐍 CONTRIBUTION TABLE
- 
-  <h1>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manavtarashnayak/manavtarashnayak/output/github-snake.svg" />
