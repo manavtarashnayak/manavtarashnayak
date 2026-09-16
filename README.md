@@ -8,16 +8,11 @@
 
 ## About Me 
 
-```c
-#include <stdio.h>
-
-int main() {
-    printf("Role: Computer Science Student (chosen by destiny, not electives)\n");
-    printf("Passion: Debugging like the fate of the universe depends on it\n");
-    printf("Learning: AI — because great power requires great logic\n");
-    printf("Goal: Become skilled before the sequel semester arrives\n");
-    return 0;
-}
+```py
+    print("Role: Computer Science Student (chosen by destiny, not electives)\n")
+    print("Passion: Debugging like the fate of the universe depends on it\n")
+    print("Learning: AI — because great power requires great logic\n")
+    print("Goal: Become skilled before the sequel semester arrives\n")
 ```
 <h1>
 </h1>
